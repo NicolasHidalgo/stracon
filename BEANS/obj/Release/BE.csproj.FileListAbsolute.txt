@@ -1,0 +1,6 @@
+C:\JMIESES\2022\Proyectos\webapp\BEANS\bin\Release\BEANS.dll
+C:\JMIESES\2022\Proyectos\webapp\BEANS\bin\Release\BEANS.pdb
+C:\JMIESES\2022\Proyectos\webapp\BEANS\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\JMIESES\2022\Proyectos\webapp\BEANS\obj\Release\BEANS.dll
+C:\JMIESES\2022\Proyectos\webapp\BEANS\obj\Release\BEANS.pdb
+C:\JMIESES\2022\Proyectos\webapp\BEANS\obj\Release\BE.csprojAssemblyReference.cache

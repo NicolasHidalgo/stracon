@@ -1,0 +1,11 @@
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\BL.dll
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\BL.pdb
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\BEANS.dll
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\DA.dll
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\BEANS.pdb
+C:\JMIESES\2022\Proyectos\webapp\BL\bin\Debug\DA.pdb
+C:\JMIESES\2022\Proyectos\webapp\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\JMIESES\2022\Proyectos\webapp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\JMIESES\2022\Proyectos\webapp\BL\obj\Debug\BL.csproj.CopyComplete
+C:\JMIESES\2022\Proyectos\webapp\BL\obj\Debug\BL.dll
+C:\JMIESES\2022\Proyectos\webapp\BL\obj\Debug\BL.pdb
